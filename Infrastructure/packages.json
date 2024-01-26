@@ -1,0 +1,26 @@
+{
+	"name": "SwiftjectiveC Collection",
+	"packages": [
+		{
+			"url": "https://github.com/SwiftjectiveCApp/AppCore"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/Authentication"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/DesignSystem"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/Home"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/Models"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/Networking"
+		},
+		{
+			"url": "https://github.com/SwiftjectiveCApp/Profile"
+		}
+	]
+}

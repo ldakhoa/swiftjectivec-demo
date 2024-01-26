@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "designsystem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftjectiveCApp/DesignSystem",
+      "state" : {
+        "revision" : "8b250316b0c78de3ac12bc276e3f88ff01753b91",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "models",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftjectiveCApp/Models",
+      "state" : {
+        "revision" : "2edbcdf65e6f680373940c3fadee89abc755cd60",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "networkable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tphduy/Networkable",
+      "state" : {
+        "revision" : "8e514e65d81a8ed7a67f718e3cc9399ce2094be4",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "orbit-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kiwicom/orbit-swiftui.git",
+      "state" : {
+        "revision" : "275d68db4e30e035234d495e5cc17e64b23bae67",
+        "version" : "0.9.6"
+      }
+    }
+  ],
+  "version" : 2
+}

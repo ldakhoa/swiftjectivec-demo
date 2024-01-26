@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "orbit-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kiwicom/orbit-swiftui.git",
+      "state" : {
+        "revision" : "275d68db4e30e035234d495e5cc17e64b23bae67",
+        "version" : "0.9.6"
+      }
+    }
+  ],
+  "version" : 2
+}
