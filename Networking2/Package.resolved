@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "models",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftjectiveCApp/Models",
+      "state" : {
+        "revision" : "2edbcdf65e6f680373940c3fadee89abc755cd60",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "networkable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tphduy/Networkable",
+      "state" : {
+        "revision" : "8e514e65d81a8ed7a67f718e3cc9399ce2094be4",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
